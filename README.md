@@ -61,3 +61,7 @@ python build.py
 - PyQt6: GUI библиотека
 - qasync: Асинхронная интеграция с PyQt
 - pillow: Работа с изображениями
+-
+-
+- ![anime_changer_gui](https://github.com/user-attachments/assets/40d3e968-4ab3-46aa-8074-5cede4352ac4)
+
