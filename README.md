@@ -42,6 +42,16 @@ poetry shell
 python -m anime_wallpaper_changer
 ```
 
+## Билд для Windows
+
+1. Программа можно собрать в exe файл для Windows.
+
+```bash
+python build.py
+```
+
+2. После сборки в директории `dist` появится файл `anime-wallpaper-prog.exe`.
+
 ## Зависимости
 
 - aiohttp: Асинхронные HTTP-запросы
